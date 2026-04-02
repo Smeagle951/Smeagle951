@@ -254,30 +254,6 @@ Synchronization  →  Connectivity restored → Auto-sync → Cloud updated
 
 <br/>
 
-## 🤝 Contributing
-
-Contributions are welcome from developers and agronomic professionals.
-
-All contributions must follow established architectural and code quality standards to ensure system consistency and long-term maintainability.
-
-```bash
-# Create a feature branch
-git checkout -b feature/your-feature-name
-
-# Commit following Conventional Commits specification
-git commit -m "feat: add phenological stage selector"
-
-# Open a Pull Request with clear description of scope and motivation
-git push origin feature/your-feature-name
-```
-
-For architectural changes or new modules, open an issue before implementation to align on design decisions.
-
-<br/>
-
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #22c55e, transparent);" />
-
-<br/>
 
 ## 📄 License
 
